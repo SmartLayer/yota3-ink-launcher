@@ -25,3 +25,7 @@ Suppose the app you need to run on the e-ink display is already installed on you
 6. click "Discover" then 澎湃新闻.
 
 It launches the app you configured previously.
+
+# Todo
+
+- Find a way to detect if the app is running on the front or back screen. If on the front, display a list of all apps installed, for the user to chose one to launch. If on the back, launches the chosen app (unless none has been chosen).
