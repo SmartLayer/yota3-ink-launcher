@@ -20,6 +20,8 @@ Suppose the app you need to run on the e-ink display is already installed on you
 
 4. (Optional) Launch the newly installed app on the front screen. Check if it launches the app you need to run on the e-ink display.
 
-5. Flip to the back of the phone and use ☰ button to launch a system menu, click "Discover" then 澎湃新闻.
+5. Flip to the back of the phone and use ☰  button to launch a system menu, like this ![☰ menu](README-2.png).
+
+6. click "Discover" then 澎湃新闻.
 
 It launches the app you configured previously.
